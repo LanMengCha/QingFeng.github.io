@@ -1,2 +1,2 @@
 # QingFeng.github.io
-一个网站，仅此而已
+https://lanmengcha.github.io/QingFeng.github.io/
